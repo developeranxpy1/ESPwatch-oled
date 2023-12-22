@@ -53,11 +53,11 @@
 -> hardware requirements:
 
 -speaker-
--vibration motor-
+-vibration motor [red led]-
 -buttons x2-
 -oled display(i2c)-
--flash led-
--internal led-
+-flash led [white led]-
+-internal led [blue led]-
 
 
 
