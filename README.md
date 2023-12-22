@@ -2,15 +2,25 @@
 micropython/arduino and ESP32 based multipurpose watch
 
 
-copy all the files to your micropython directory
+INSTALLATION
 
-important: set the gpio pins before using the code. also edit the ssid and psk in main.py
 
-ssid='webrepl', password='731235' default SSID and password for the AP
+![micropython](<esp32 tut.JPG>)
+-> install micropython firmware
 
-connect to webrepl ssid "when the display shows ota mode" with your pc to edit the codes
 
-hardware requirements:
+![thonny](git.png)
+-> copy all the files to your micropython directory
+
+
+![gpio](gpio.JPG)
+-> important: set the gpio pins before using the code. also edit the ssid and psk in main.py
+
+-> ssid='webrepl', password='731235' default SSID and password for the AP
+
+-> connect to webrepl ssid "when the display shows ota mode" with your pc to edit the codes
+
+-> hardware requirements:
 
 -speaker-
 -vibration motor-
