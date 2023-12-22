@@ -34,3 +34,14 @@ INSTALLATION
 -flash led-
 -internal led-
 
+
+
+
+
+
+wiring:
+
+![wokwi](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/e79bfaf6-6c7b-4d2c-9c13-f40e807ebcbe)
+
+
+https://wokwi.com/projects/384799949503869953
