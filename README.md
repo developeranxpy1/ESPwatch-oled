@@ -3,6 +3,10 @@
 
 
 # micropython/arduino and ESP32 based multipurpose watch
+
+
+
+
 ![VID_20230608_231654 (1)](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/42b7b930-0d1d-4ac1-b4ad-8b39d1930629)
 
 
