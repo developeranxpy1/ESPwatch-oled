@@ -5,15 +5,20 @@ micropython/arduino and ESP32 based multipurpose watch
 INSTALLATION
 
 
-!git[micropython](<esp32 tut.JPG>)
+![micropython](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/f8eaa1de-0c83-4388-b597-1fac6f64a7fb)
+
 -> install micropython firmware
 
 
-![thonny](git.png)
+
+
+![thonny](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/993f6cb4-6ee3-4c87-8e10-a9363c9d2041)
+
 -> copy all the files to your micropython directory
 
 
-![gpio](gpio.JPG)
+![gpio](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/8d660b34-f977-45dd-9c33-230b9fe2be17)
+
 -> important: set the gpio pins before using the code. also edit the ssid and psk in main.py
 
 -> ssid='webrepl', password='731235' default SSID and password for the AP
