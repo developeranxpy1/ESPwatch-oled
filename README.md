@@ -5,7 +5,7 @@ micropython/arduino and ESP32 based multipurpose watch
 INSTALLATION
 
 
-![micropython](<esp32 tut.JPG>)
+!git[micropython](<esp32 tut.JPG>)
 -> install micropython firmware
 
 
