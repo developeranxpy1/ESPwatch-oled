@@ -13,14 +13,6 @@
 
 
 
-
-
-
-
-
-
-
-
 # INSTALLATION
 
 
@@ -58,7 +50,7 @@
 
 
 
-wiring:
+# Wiring:
 
 ![wokwi](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/e79bfaf6-6c7b-4d2c-9c13-f40e807ebcbe)
 
