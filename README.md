@@ -3,17 +3,17 @@
 
 # micropython/arduino and ESP32 based multipurpose watch
 
-#pre-order : https://www.tindie.com/products/33259/
+<br>
 
 <a href="https://www.tindie.com/products/33259/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
-
+<br>
 ![imgxxx](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/71ef2801-0e9e-4aeb-8b74-5bc94339871b)
-
+<br>
 
 ![led img](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/8525a8b6-e796-4c18-84c9-0ba624c28dfe)
 
 
-
+<br>
 
 
 
