@@ -1,13 +1,17 @@
 # ESPwatch
 
 
+# micropython/arduino and ESP32 based multipurpose watch
+
+
+
 ![imgxxx](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/71ef2801-0e9e-4aeb-8b74-5bc94339871b)
 
 
 ![led img](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/8525a8b6-e796-4c18-84c9-0ba624c28dfe)
 
 
-# micropython/arduino and ESP32 based multipurpose watch
+
 
 
 
