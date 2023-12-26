@@ -9,9 +9,6 @@
 <br>
 
 
-<div style="width: 150px; height: 150px; border-radius: 60px; overflow: hidden;"><img style="width: 50%; height: 50%; object-fit: cover;" src="https://private-user-images.githubusercontent.com/86851518/292536987-71ef2801-0e9e-4aeb-8b74-5bc94339871b.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM2MDkwNzMsIm5iZiI6MTcwMzYwODc3MywicGF0aCI6Ii84Njg1MTUxOC8yOTI1MzY5ODctNzFlZjI4MDEtMGU5ZS00YWViLThiNzQtNWJjOTQzMzk4NzFiLkpQRz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI2VDE2MzkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhY2ExODczNDRlM2M4ZDQ1MjVjMzgwY2ZkMDVjMTVjYzUxZjdkZThmMTY1YWE0ZTE4NTJjODhlYWM5MTRmZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ABI3YVZ_7IIH8-NqkgqIuVvmxJ_0a5kV8UyZL8wipuc" alt="Your Image"></div>
-
-
 
 
 ![imgxxx](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/71ef2801-0e9e-4aeb-8b74-5bc94339871b)
