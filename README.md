@@ -3,6 +3,8 @@
 
 # micropython/arduino and ESP32 based multipurpose watch
 
+#pre-order : https://www.tindie.com/products/33259/
+
 
 
 ![imgxxx](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/71ef2801-0e9e-4aeb-8b74-5bc94339871b)
