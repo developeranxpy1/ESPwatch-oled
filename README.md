@@ -5,13 +5,6 @@
 
 <br>
 
-<a href="https://www.reddit.com/user/Anxpy1"><img src="https://www.pngitem.com/pimgs/m/121-1217716_reddit-logo-png-transparent-png.png" width="200" height="90"></a>
-<br>
-
-
-
-<a href="https://www.tindie.com/products/33259/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
-<br>
 
 
 
@@ -30,9 +23,16 @@
 ![VID_20230608_231654 (1)](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/42b7b930-0d1d-4ac1-b4ad-8b39d1930629)
 
 
+<br>
+
+
+<a href="https://www.reddit.com/user/Anxpy1"><img src="https://www.pngitem.com/pimgs/m/121-1217716_reddit-logo-png-transparent-png.png" width="200" height="90"></a>
+<br>
 
 
 
+<a href="https://www.tindie.com/products/33259/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+<br>
 
 
 
