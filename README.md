@@ -7,6 +7,12 @@
 
 <a href="https://www.tindie.com/products/33259/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 <br>
+
+
+<div style="width: 150px; height: 150px; border-radius: 15px; overflow: hidden;"><img style="width: 100%; height: 100%; object-fit: cover;" src="![imgxxx](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/71ef2801-0e9e-4aeb-8b74-5bc94339871b)
+<br>" alt="img1"></div>
+
+
 ![imgxxx](https://github.com/USER-RGB-PIXEL/ESPwatch/assets/86851518/71ef2801-0e9e-4aeb-8b74-5bc94339871b)
 <br>
 
