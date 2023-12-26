@@ -89,9 +89,6 @@ https://wokwi.com/projects/384799949503869953
 <br>
 <br>
 
-#Download latest:
-git clone https://github.com/developeranxpy1/ESPwatch/tree/073c06d5c4db1facbc01446edaf03523478f662b/v3%20ota
-
 
 
 
