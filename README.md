@@ -31,8 +31,8 @@
 
 
 
-<a href="https://www.tindie.com/products/33259/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
-<br>
+<!--<a href="https://www.tindie.com/products/33259/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+<br>--->
 
 
 
