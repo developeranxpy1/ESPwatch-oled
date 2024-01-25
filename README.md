@@ -26,7 +26,7 @@
 <br>
 
 
-<a href="https://www.reddit.com/user/Anxpy1"><img src="https://www.pngitem.com/pimgs/m/121-1217716_reddit-logo-png-transparent-png.png" border-radius="5px" width="200" height="90"></a>
+<a href="https://www.reddit.com/user/Anxpy1"><img src="https://www.pngitem.com/pimgs/m/121-1217716_reddit-logo-png-transparent-png.png" width="200" height="90"></a>
 <br>
 
 
