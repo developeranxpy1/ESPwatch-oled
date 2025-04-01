@@ -94,7 +94,7 @@ https://wokwi.com/projects/384799949503869953
 
 
 
-contact me if you can make this in arduino:
+contact me if you can make this in arduino code:
 
 
 
